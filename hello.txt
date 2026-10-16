@@ -1,2 +1,4 @@
 Welcome to Git
 Learning Git basics
+This line is from CONFLICT branch.
+This line is from CONFLICT branch.
